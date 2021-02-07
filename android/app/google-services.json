@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096904241761",
+    "project_id": "school-ad6a4",
+    "storage_bucket": "school-ad6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096904241761:android:3cf41a3d5a3fa7ae7ab020",
+        "android_client_info": {
+          "package_name": "com.school.hussein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096904241761-qajj8h1d9h8ecjgtemmnf4kgolvnhddb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.school.hussein",
+            "certificate_hash": "88d1b577581bf4179403fa75e6eb5fe9bfa3bbff"
+          }
+        },
+        {
+          "client_id": "1096904241761-ss0djkc15a7okm240mkdad3itr2igq1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGTLPliRNy8cMKdIXqQAROq5p23PFstw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096904241761-ss0djkc15a7okm240mkdad3itr2igq1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
